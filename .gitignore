@@ -1,0 +1,16 @@
+# Keil 编译输出文件夹
+Listings/
+Objects/
+DebugConfig/
+
+# Keil 界面缓存、工程附属文件
+*.uvguix*
+*.axf
+*.hex
+*.bin
+*.bak
+*.scvd
+
+# 系统缓存文件
+Thumbs.db
+.DS_Store
